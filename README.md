@@ -1,6 +1,6 @@
 # 📊 Web Scraping - Ranking das 100 Maiores Empresas dos EUA
 
-![Just Capital](./imagens/logo%20just%20capital.jpg)
+![Just Capital](./images/logo%20just%20capital.jpg)
 
 Este projeto realiza **web scraping no site [Just Capital](https://justcapital.com/)** para coletar e estruturar os dados do ranking das **100 maiores empresas de capital aberto dos Estados Unidos**, com foco em indicadores de justiça corporativa, ESG e desempenho setorial.
 
@@ -35,13 +35,13 @@ Este projeto tem como meta:
 
 | Ferramenta | Descrição |
 |------------|-----------|
-| ![Python + Selenium](./imagens/logo%20se%20python.png) | Utilizado para automação da coleta de dados |
-| ![Pandas](./imagens/logo%20pandas.png) | Manipulação e organização dos dados extraídos |
+| ![Python + Selenium](./images/logo%20se%20python.png) | Utilizado para automação da coleta de dados |
+| ![Pandas](./images/logo%20pandas.png) | Manipulação e organização dos dados extraídos |
 
 ---
 
 ## 🧑‍💻 Autor
 
-**[Seu Nome]**  
+**[Aline Bertolani]**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aline-gracioli-bertolani-b83209334)  
 📧 [alinegraciolibertolani@gmail.com]
